@@ -12,8 +12,8 @@ To view the full analysis, including the generated visualizations and results, p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository URL]
-    cd [repository name]
+    git clone https://github.com/Tanishashahi/Crime_data_analysis.git
+    cd Crime_data_analysis
     ```
 
 2.  **Ensure you have the required libraries installed:**
@@ -36,11 +36,11 @@ To view the full analysis, including the generated visualizations and results, p
 3.  **Open and run the Jupyter Notebook:**
     Make sure you have Jupyter Notebook or JupyterLab installed. You can then run the notebook using the following command in your terminal within the repository directory:
     ```bash
-    jupyter notebook [YourNotebookFileName].ipynb
+    jupyter notebook Crime_data_analysis.ipynb
     ```
     or
     ```bash
-    jupyter lab [YourNotebookFileName].ipynb
+    jupyter lab Crime_data_analysis.ipynb
     ```
 
     This will open the notebook in your web browser. You can then execute the cells to see the output.
@@ -75,8 +75,8 @@ To view the full analysis, including the generated visualizations and results, p
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/sales-data-analysis.git
-    cd sales-data-analysis
+    git clone https://github.com/Tanishashahi/Crime_data_analysis.git
+    cd Crime_data_analysis
     ```
 
 2.  **Ensure you have the required libraries installed:**
@@ -95,19 +95,6 @@ To view the full analysis, including the generated visualizations and results, p
     ```bash
     conda install plotly seaborn matplotlib numpy pandas
     ```
-
-3.  **Open and run the Jupyter Notebook:**
-    Make sure you have Jupyter Notebook or JupyterLab installed. You can then run the notebook using the following command in your terminal within the repository directory:
-    ```bash
-    jupyter notebook sales_analysis.ipynb
-    ```
-    or
-    ```bash
-    jupyter lab sales_analysis.ipynb
-    ```
-
-    This will open the notebook in your web browser. You can then execute the cells to see the output.
-
 **Presentation:**
 
 During the presentation, I will run the notebook locally to demonstrate the generated outputs, including interactive plots showing sales by region and product category, as well as key statistical summaries.
