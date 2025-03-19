@@ -1,6 +1,6 @@
 # Crime_data_analysis
 
-This repository contains a Jupyter Notebook (`[YourNotebookFileName].ipynb`) that explores [briefly describe the purpose of the notebook, e.g., data analysis on a specific dataset, implementation of a machine learning model, visualization of a phenomenon].
+This repository contains a Jupyter Notebook (`Crime_data_analysis.ipynb`) that explores [briefly describe the purpose of the notebook, e.g., data analysis on a specific dataset, implementation of a machine learning model, visualization of a phenomenon].
 
 **Note on Notebook Size:**
 
